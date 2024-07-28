@@ -113,3 +113,5 @@ python-decouple==3.8
 python-dotenv==1.0.1
 python-json-logger==2.0.7
 pytz==2024.1
+yfinance==0.2.41
+
